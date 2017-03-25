@@ -14,7 +14,7 @@ I strongly feel there is a need for an app here. An app to bring both sided toge
 
 ## suggested solution
 
-Imagine sitting in a train compartment with 9 others. You and 8 of them are using the mobile phone. One guy is just feeling lonely. He does have a phone, but none of his friends are online. Or he is just not interested in his phone, which is in his pocket. His name is Ben.
+Imagine sitting in a train compartment with 9 others. Eight of them are using the mobile phone. One guy is just feeling lonely. He does have a phone, but none of his friends are online. Or he is just not interested in his phone, which is in his pocket. His name is Ben.
 Suddely the guy next to him turns his head and says: "Hi Ben, good morning." Ben smiles.
 
 So what happend there?
